@@ -3,7 +3,7 @@ I'm Pierre Delaporte. I'm a tech recruiter making his way through the matrix.
 
 I recruit Archictect for different types of companies (start-ups, SMEs, scale-ups, large groups).
 
-You can say hello to me on LinkedIn, or by email at pierre.delaporte@mobiskill.fr 📫 👋🏼
+You can say hello to me on [LinkedIn]([url](https://www.linkedin.com/in/pierre-delaporte/)), or by email at pierre.delaporte@mobiskill.fr 📫 👋🏼
 
 # ⛷️ About me:
 - 🎓 Master degree at IESEG Business School
